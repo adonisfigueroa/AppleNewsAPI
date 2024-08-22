@@ -8,7 +8,7 @@
     "license": "MIT",
     "require": {
         "php": ">=5.4.0",
-        "php-curl-class/php-curl-class": "^4.6"
+        "php-curl-class/php-curl-class": ">=9.0"
     },
     "require-dev": {
         "mikey179/vfsstream": "1.5.*",
